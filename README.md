@@ -1,74 +1,59 @@
 # Practicamenuhtml
 Página web de un menú de restaurante desarrollado con HTML5 y CSS3. Incluye diferentes categorías de platos, imágenes, ingredientes, horarios, precios y un apartado de sugerencias.
-🍽️ Menú del Día - Página Web
+🍽️ Daily Menu - Restaurant Website
 
-📌 Descripción
+ Description
 
-Este proyecto consiste en el desarrollo de una página web para un restaurante que ofrece un menú del día. Su objetivo es más de forma inteligente y visual los diferentes platos disponibles, sus ingredientes y la información general del hombre.
+This project consists of a website for a restaurant that offers a daily menu. Its main purpose is to display the available dishes, their ingredients, and general information about the restaurant's menu in a simple and visual way.
 
-La página está desarrollada utilizando HTML5 y CSS3, aplicando estilos para entender una presentación aceptable y organizada.
+The website has been developed using HTML5 and CSS3, with styling designed to provide a clean and organized presentation.
 
-✨ Características
+ Features
 
-Menú principal: muerte las diferentes secciones del restaurante.
+Main Menu: Displays the different sections of the restaurant.
 
-Primeros platos: incluye ensalada de la casa, gazpacho y pasta a la carbonara.
+Starters: Includes house salad, gazpacho, and carbonara pasta.
 
-Segundos platos: incluye pollo al horno con patatas, dorada al horno y cachopo asturiano.
+Main Courses: Includes roast chicken with potatoes, baked sea bream, and Asturian cachopo.
 
-Postres: incluye flan de huevo, crepes y tarta de queso.
+Desserts: Includes egg flan, crepes, and cheesecake.
 
-Ingredientes: cada plato cuenta con su correspondiente lista de ingredientes.
+Ingredients: Each dish includes its own ingredient list.
 
-Horarios: muerte los días y horarios de apertura.
+Opening Hours: Displays the restaurant's opening days and hours.
 
-Precio: información sobre el precio del hombre del día (11,99 €).
+Price: Information about the daily menu price (€11.99).
 
-Sugerencias: apartado para escribir sugerencias.
+Suggestions: A section where visitors can write suggestions.
 
-🛠️ Tecnologías utilizadas
+ Technologies Used
 
 HTML5
 
 CSS3
 
-MVP.css como base de estilos.
+MVP.css as the base stylesheet.
 
-📂 Estructura del proyecto
+ Project Structure
 
-Menú-del-dia/
+Menu-of-the-day/
 │
 ├── Index.html
 ├── Primeros.html
 ├── Segundos.html
 ├── Postres.html
-├──Sugerencias.html
-└── mapa.css
+├── Sugerencias.html
+└── map.css
 
-🚀 Cómo hacer el proyecto
+ How to Run the Project
 
-Descargar o clona este repositorio.
+Download or clone this repository.
 
-Abre la alfombra del proyecto.
+Open the project folder.
 
-Ejecuta el archivo Index.html en tu navegador.
+Open the Index.html file in your web browser.
 
-Navega por las diferentes secciones del menú.
+Navigate through the different menu sections.
 
-También podemos utilizar la extensión Live Server de Visual Studio Code para visualizar la página misentras trabajas en ella.
 
-📚 Objetivo del proyecto
 
-Este proyecto se ha realizado como práctica de desarrollo web para aplicar conocimientos básicos de HTML y CSS, trabajando con:
-
-Estructura de documentos HTML.
-
-Enlaces entre diferentes páginas.
-
-Inserción de imágenes.
-
-Listas y tablas.
-
-Formularios básicos.
-
-Aplicación de hojas de estilo CSS.
