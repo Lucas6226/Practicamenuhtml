@@ -38,7 +38,6 @@ MVP.css as the base stylesheet.
  Project Structure
 
 Menu-of-the-day/
-│
 ├── Index.html
 ├── Primeros.html
 ├── Segundos.html
