@@ -1,6 +1,7 @@
 # Practicamenuhtml
-Página web de un menú de restaurante desarrollado con HTML5 y CSS3. Incluye diferentes categorías de platos, imágenes, ingredientes, horarios, precios y un apartado de sugerencias.
-🍽️ Daily Menu - Restaurant Website
+A restaurant menu webpage developed using HTML5 and CSS3. It includes various dish categories, images, ingredients, opening hours, prices, and a section for suggestions.
+
+ Daily Menu - Restaurant Website
 
  Description
 
